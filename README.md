@@ -1,2 +1,3 @@
 # HyMetric-Adapter
 An adapter that replaces the Hypixel API that was previously used by [HyMetric](https://github.com/Th3Shadowbroker/hymetric) by providing a similar REST-API.
+The [timer.js](https://hypixel.inventivetalent.org/shared/skyblock-time.js) file has been sourced from `https://hypixel.inventivetalent.org/shared/skyblock-time.js` and was written by [inventivetalent](https://github.com/InventivetalentDev).
