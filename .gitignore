@@ -1,0 +1,11 @@
+.idea
+.vscode
+
+*.iml
+
+node_modules
+
+*.cmd
+*.bat
+*.sh
+*.exe
